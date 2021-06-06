@@ -1,9 +1,13 @@
+import './resources/App.css';
+
+import { HomeSection, ExperienceSection, ShowcaseSection } from './sections';
+
 function App() {
   return (
     <div>
-      <header>
-        <h1>W . I . P 😀</h1>
-      </header>
+      <HomeSection />
+      {/* <ExperienceSection />
+      <ShowcaseSection /> */}
     </div>
   );
 }
