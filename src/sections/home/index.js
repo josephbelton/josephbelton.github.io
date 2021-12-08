@@ -16,6 +16,9 @@ function HomeSection() {
                     <span>|</span>
                     <p><i>Now TV</i></p>
                     <p>Associate Software Developer</p>
+                    <span>|</span>
+                    <p><i>Now TV</i></p>
+                    <p>Software Developer</p>
                 </div>
             </Box>
         </Container>
