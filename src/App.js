@@ -1,13 +1,11 @@
 import './resources/App.css';
 
-import { HomeSection, ExperienceSection, ShowcaseSection } from './sections';
+import { HomeSection } from './sections';
 
 function App() {
   return (
     <div>
       <HomeSection />
-      {/* <ExperienceSection />
-      <ShowcaseSection /> */}
     </div>
   );
 }
