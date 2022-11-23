@@ -1,6 +1,6 @@
 {
-  "short_name": "Joseph Belton portfolio",
-  "name": "Joseph Belton developer portfolio",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
