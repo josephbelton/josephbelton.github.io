@@ -34,6 +34,12 @@ function HomeSection() {
                     <p>Software Developer</p>
                     <p>Jan 2022 - Present</p>
                 </Experience>
+                <Experience randomPosition={randomPosition()}>
+                    <div dangerouslySetInnerHTML={{ __html: planet }} />
+                    <p><i>Top Secret Project</i></p>
+                    <p>Currently In Development</p>
+                    <p>August 2021 - Present</p>
+                </Experience>
             </Container>
         </OuterContainer>
     )
