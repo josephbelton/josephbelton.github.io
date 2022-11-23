@@ -10,8 +10,8 @@ function HomeSection() {
             <Title>
                 <div dangerouslySetInnerHTML={{ __html: xwing }} />
                 <div>
-                    <p>👋 Connect with me at: <a href="https://www.linkedin.com/in/joebelton">https://www.linkedin.com/in/joebelton</a></p>
-                    <p>🖥 See what I'm up to at: <a href="https://github.com/josephbelton">https://github.com/josephbelton</a></p>
+                    <p>👋  Connect with me at: <a href="https://www.linkedin.com/in/joebelton">https://www.linkedin.com/in/joebelton</a></p>
+                    <p>🖥  See what I'm up to at: <a href="https://github.com/josephbelton">https://github.com/josephbelton</a></p>
                 </div>
             </Title>
             <p>Hover over a job to learn more!</p>
